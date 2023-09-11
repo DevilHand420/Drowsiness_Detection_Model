@@ -71,3 +71,5 @@ Important Notice: The model in the screenshot is my friend Vipul Batra.
 - Keras
 - numpy
 - Pygame
+
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/dikshant-sharma-b41539232
