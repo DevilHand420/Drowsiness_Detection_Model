@@ -49,7 +49,8 @@ This script is used to build, train, and save a CNN model for the binary image c
 
 ## Screenshots and Output
 
-Include screenshots or describe the expected output of your Drowsiness Detection System here.
+![Drowsiness Detection System Screenshot](./output-ss/detecting.png)
+
 
 ## Usage
 
