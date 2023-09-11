@@ -56,7 +56,7 @@ Here are some screenshots demonstrating the Drowsiness Detection System in actio
 
 ![Found](output_ss/Found.png)
 *Caption: The system has found closed eyes and triggered an alert.*
-*Caption: The model in the screenshot is my friend Vipul Batra.*
+Important Notic: The model in the screenshot is my friend Vipul Batra.
 ## Usage
 
 1. Ensure you have the required libraries installed, including OpenCV, Keras, and Pygame.
